@@ -1,0 +1,8 @@
+234 daniil Standard 0
+C002 Bob Standard 2
+W200 296.00
+W201 300.00
+C001 Alice Gold 1
+W100 1350.00
+C003 Charlie Platinum 1
+W300 9497.50
